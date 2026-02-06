@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+.DS_Store
+
+# Backend and frontend each have their own .gitignore for .env
